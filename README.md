@@ -5,7 +5,7 @@ The assignment implements a modular belief revision engine for propositional log
 ---
 ## Project Structure
 ```text
-belief_revision/
+src/
 ├── main.py
 ├── logic_ast.py
 ├── parser.py
