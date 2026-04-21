@@ -12,6 +12,7 @@ src/
 ├── cnf.py
 ├── resolution.py
 ├── belief_base.py
+├── cli.py
 └── tests.py
 ```
 
