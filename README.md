@@ -29,6 +29,8 @@ src/
 
 - **`belief_base.py`**: Defines the belief base and belief objects, including priorities. It implements the main belief change operations: expansion, contraction, and revision.
 
+- **`cli.py`**: Implements the Command Line Interface. Running this file the user is able to use the belief engine from the terminal.
+
 - **`tests.py`**: Contains test cases for the system, including checks inspired by AGM postulates such as Success, Vacuity, Consistency, and Extensionality.
 
 ---
