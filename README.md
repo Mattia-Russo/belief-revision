@@ -100,6 +100,11 @@ python tests.py
 ```
 The demo in `main.py` creates a small belief base, performs belief revision with new information, and prints the updated result.
 
+Run the cli:
+```bash
+python cli.py
+```
+
 ---
 ## Requirements
 - Python 3.10 or newer
